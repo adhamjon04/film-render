@@ -1,0 +1,61 @@
+body {
+    background-color: orangered;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1370px;
+    height: 100%;
+}
+
+.renders {
+    font-family: cursive;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.select__gender {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 40px;
+    border-radius: 15px;
+}
+
+.option__list {
+    background-color: lightsteelblue;
+}
+
+.poster__style {
+    margin-top: 10px;
+    width: 280px;
+    height: 350px;
+    margin-bottom: 10px;
+}
+
+.list {
+    background-color: darkcyan;
+    justify-content: center;
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.item__style {
+    margin-top: 10px;
+    border-radius: 20px;
+    margin-right: 10px;
+    background-color: lightblue;
+    max-width: 32%;
+    margin-bottom: 10px 10px;
+}
+
+.over__style {
+    width: 0px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
